@@ -17,7 +17,7 @@ Important libraries used:
   * scVI, to integrate data, remove doublets and calculate optimal parameters for dataset processing, as well as marker ranking, all using machine learning models.
 
 What datasets were used:
-  * I'll do it later, im too lazy for now (=✖ ᆺ ✖=)
+  * Most datasets were downloaded from the Gene Expression Omnibus (GEO) under accession codes GSE136831, GSE135893, GSE131907, GSE123904, GSE130148, GSE148071, GSE127465, GSE154826, and GSE189357. Additional data were obtained from the Code Ocean platform (Bischoff et al., 2021) and from the West China Hospital cohort (Fan et al., 2025)
 
 How to install the pipeline:
-  * I'll do it later, im too lazy for now (=✖ ᆺ ✖=)
+  * Create a python environment and download the libraries trough requirements.txt
